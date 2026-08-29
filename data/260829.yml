@@ -1,0 +1,62 @@
+about:
+  description:  An interactive terminal user interface (TUI) application for exploring data of a kafka cluster. 
+  license: NOASSERTION
+  homepage: https://maif.github.io/yozefu/
+  head: 2934c8d
+  archived: false
+  latestVersion: v0.0.32
+  collectedAt: 2026-08-29T07:16:25Z
+timeline:
+  created: 2024-12-03
+  lastCommit: 2026-08-27
+  lastRelease: 2026-08-27
+popularity:
+  star: 344
+  watcher: 6
+  fork: 15
+  release: 32
+  contributor: 6
+  pullRequest: 176
+  issue: 25
+language:
+  Rust: 448227
+  Makefile: 5851
+  Java: 4478
+  Nix: 3169
+  Go: 2750
+  Dockerfile: 2345
+  JavaScript: 964
+totalLine: 467784
+recent:
+  last30d:
+    since: 2026-07-30
+    release: 2
+    mergedPR: 4
+    openPR: 1
+    closedIssue: 1
+    openIssue: 0
+    commit: 8
+  last90d:
+    since: 2026-05-31
+    release: 3
+    mergedPR: 31
+    openPR: 1
+    closedIssue: 5
+    openIssue: 1
+    commit: 33
+  last180d:
+    since: 2026-03-02
+    release: 5
+    mergedPR: 48
+    openPR: 1
+    closedIssue: 6
+    openIssue: 2
+    commit: 60
+  last360d:
+    since: 2025-09-03
+    release: 18
+    mergedPR: 131
+    openPR: 2
+    closedIssue: 17
+    openIssue: 4
+    commit: 181
