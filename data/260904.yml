@@ -7,7 +7,7 @@ about:
   head: 2934c8d
   archived: false
   latestVersion: v0.0.32
-  collectedAt: 2026-09-04T19:52:46Z
+  collectedAt: 2026-09-04T20:49:35Z
 timeline:
   created: 2024-12-03
   lastCommit: 2026-08-27
@@ -86,5 +86,98 @@ total:
   openIssue: 4
   commit: 344
 ---
+path: /home/runner/.x-repo/github.com/MAIF/yozefu
+collectedAt: 2026-09-04T20:49:37Z
+loc:
+  Rust:
+    code: 11280
+    comments: 433
+    blanks: 1385
+    files: 139
+  Json:
+    code: 6540
+    comments: 0
+    blanks: 1
+    files: 50
+  Java:
+    code: 626
+    comments: 190
+    blanks: 141
+    files: 12
+  Toml:
+    code: 487
+    comments: 168
+    blanks: 63
+    files: 13
+  Svg:
+    code: 246
+    comments: 0
+    blanks: 0
+    files: 7
+  Yaml:
+    code: 195
+    comments: 4
+    blanks: 12
+    files: 1
+  Sh:
+    code: 156
+    comments: 20
+    blanks: 31
+    files: 1
+  Makefile:
+    code: 108
+    comments: 0
+    blanks: 26
+    files: 4
+  Nix:
+    code: 98
+    comments: 0
+    blanks: 8
+    files: 1
+  Dockerfile:
+    code: 61
+    comments: 8
+    blanks: 9
+    files: 4
+  Go:
+    code: 57
+    comments: 26
+    blanks: 10
+    files: 1
+  Protobuf:
+    code: 35
+    comments: 0
+    blanks: 5
+    files: 2
+  JavaScript:
+    code: 27
+    comments: 2
+    blanks: 3
+    files: 2
+  TypeScript:
+    code: 20
+    comments: 0
+    blanks: 3
+    files: 1
+  Sql:
+    code: 19
+    comments: 0
+    blanks: 0
+    files: 3
+  Markdown:
+    code: 0
+    comments: 1074
+    blanks: 366
+    files: 27
+  Text:
+    code: 0
+    comments: 37
+    blanks: 6
+    files: 1
+total:
+  code: 20174
+  comments: 2452
+  blanks: 2104
+  files: 269
 ---
 
