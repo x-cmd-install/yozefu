@@ -1,33 +1,33 @@
 # yozefu
 
-[中文版本](./README.cn.md)
+[English version](./README.md)
 
  An interactive terminal user interface (TUI) application for exploring data of a kafka cluster. 
 
-![yozefu](https://repo.x-cmd.io/yozefu.svg)
+![yozefu](https://repo.x-cmd.io/yozefu.svg?lang=zh)
 
-## Install
+## 安装
 
 ```sh
 x install yozefu
 ```
 
-## Source
+## 源代码
 
-- **Upstream**: <https://github.com/MAIF/yozefu>
-- **Homepage**: <https://maif.github.io/yozefu/>
-- **License**: NOASSERTION
+- **上游仓库**: <https://github.com/MAIF/yozefu>
+- **官网**: <https://maif.github.io/yozefu/>
+- **许可证**: NOASSERTION
 
-## Release
+## 发布
 
-- **Latest**: `v0.0.32` (2026-08-27)
-- **Last commit**: 2026-08-27
-- **Assets in release**: 12
+- **最新版本**: `v0.0.32` (2026-08-27)
+- **最近提交**: 2026-08-27
+- **Release 含资产**: 12 个
 
-## Release assets
+## Release 资产
 
-| Asset | Size | Target |
-|-------|-----:|--------|
+| 资产 | 大小 | 目标平台 |
+|------|-----:|----------|
 | [yozefu-aarch64-apple-darwin.cdx.json](https://github.com/MAIF/yozefu/releases/download/v0.0.32/yozefu-aarch64-apple-darwin.cdx.json) | 628.5 KiB | `native/darwin/arm64` |
 | [yozefu-aarch64-apple-darwin.tar.gz](https://github.com/MAIF/yozefu/releases/download/v0.0.32/yozefu-aarch64-apple-darwin.tar.gz) | 12.2 MiB | `native/darwin/arm64` |
 | [yozefu-aarch64-unknown-linux-gnu.cdx.json](https://github.com/MAIF/yozefu/releases/download/v0.0.32/yozefu-aarch64-unknown-linux-gnu.cdx.json) | 650.1 KiB | `native/linux/arm64/glibc` |
@@ -41,41 +41,41 @@ x install yozefu
 | [yozefu-x86_64-unknown-linux-gnu.cdx.json](https://github.com/MAIF/yozefu/releases/download/v0.0.32/yozefu-x86_64-unknown-linux-gnu.cdx.json) | 653.7 KiB | `native/linux/x64/glibc` |
 | [yozefu-x86_64-unknown-linux-gnu.tar.gz](https://github.com/MAIF/yozefu/releases/download/v0.0.32/yozefu-x86_64-unknown-linux-gnu.tar.gz) | 14.4 MiB | `native/linux/x64/glibc` |
 
-## Popularity
+## 流行度
 
-- **Stars**: 344 · **Forks**: 15 · **Open issues**: 25 · **Contributors**: 6
+- **Star**: 344 · **Fork**: 15 · **开放 issue**: 25 · **贡献者**: 6
 
-## Totals (cumulative)
+## 累计统计
 
-- **Releases**: 32 · **Merged PRs**: 172 · **Open PRs**: 2 · **Closed issues**: 21 · **Open issues**: 4 · **Commits**: 344
+- **发布数**: 32 · **已合并 PR**: 172 · **开放 PR**: 2 · **已关闭 issue**: 21 · **开放 issue**: 4 · **提交数**: 344
 
-## Recent activity
+## 最近活动
 
-| Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
+| 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
 | 30d | 2026-08-11 | 1 | 3 | 0 | 1 | 0 | 5 |
 | 90d | 2026-06-12 | 3 | 25 | 1 | 4 | 1 | 26 |
 | 360d | 2025-09-15 | 17 | 124 | 2 | 17 | 4 | 165 |
 
-## Code size
+## 代码规模
 
-Total: **19,955** lines of code across **221** files in the top 5 languages.
+合计: **19,955** 行代码（覆盖前 5 种语言、共 **221** 个文件）。
 
-| Language | Code | Comments | Blanks | Files |
-|----------|-----:|---------:|-------:|------:|
+| 语言 | 代码 | 注释 | 空行 | 文件数 |
+|------|-----:|-----:|-----:|------:|
 | Rust | 11,280 | 433 | 1,385 | 139 |
 | Json | 6,540 | 0 | 1 | 50 |
 | Java | 626 | 190 | 141 | 12 |
 | Toml | 487 | 168 | 63 | 13 |
 | Svg | 246 | 0 | 0 | 7 |
 
-## Improve this data
+## 改进这些数据
 
-Install metadata for yozefu lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `yozefu` is missing, out of date, or installs incorrectly, please open an issue or PR there:
+yozefu 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索引维护——这是一份由 x-cmd 在安装时读取的精选 YAML 包列表。如果 `yozefu` 缺失、过期，或安装行为有问题，欢迎在该 repo 提 issue 或 PR：
 
-- **Open an issue**: <https://github.com/x-cmd/install/issues/new>
-- **Edit the package entry**: <https://github.com/x-cmd/install/edit/main/yozefu.yml> (or whichever path the index uses)
+- **提交 issue**: <https://github.com/x-cmd/install/issues/new>
+- **编辑包条目**: <https://github.com/x-cmd/install/edit/main/yozefu.yml>（或索引实际使用的路径）
 
-The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
+本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T16:04:35Z._
+_数据快照: `data/card/260910.yml` · 2026-09-10T16:04:36Z._
