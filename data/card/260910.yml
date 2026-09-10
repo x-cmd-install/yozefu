@@ -7,7 +7,7 @@ about:
   latestVersion: "v0.0.32"
   latestRelease: "v0.0.32"
   latestPrerelease: ""
-  collectedAt: 2026-09-10T16:04:21Z
+  collectedAt: 2026-09-10T20:14:51Z
 timeline:
   created: 2024-12-03
   lastCommit: 2026-08-27
@@ -89,7 +89,7 @@ total:
   commit: 344
 ---
 path: /home/runner/.x-repo/github.com/MAIF/yozefu
-collectedAt: 2026-09-10T16:04:25Z
+collectedAt: 2026-09-10T20:14:53Z
 loc:
   Rust:
     code: 11280
