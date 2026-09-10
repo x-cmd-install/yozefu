@@ -12,6 +12,18 @@
 x install yozefu
 ```
 
+## Code insight
+
+Total: **19,955** lines of code across **221** files in the top 5 languages.
+
+| Language | Code | Comments | Blanks | Files |
+|----------|-----:|---------:|-------:|------:|
+| Rust | 11,280 | 433 | 1,385 | 139 |
+| Json | 6,540 | 0 | 1 | 50 |
+| Java | 626 | 190 | 141 | 12 |
+| Toml | 487 | 168 | 63 | 13 |
+| Svg | 246 | 0 | 0 | 7 |
+
 ## Source
 
 - **Upstream**: <https://github.com/MAIF/yozefu>
@@ -23,6 +35,25 @@ x install yozefu
 - **Latest**: `v0.0.32` (2026-08-27)
 - **Last commit**: 2026-08-27
 - **Assets in release**: 12
+
+## Popularity
+
+- **Stars**: 344 · **Forks**: 15 · **Open issues**: 25 · **Contributors**: 6
+
+## Totals (cumulative)
+
+- **Releases**: 32 · **Merged PRs**: 172 · **Open PRs**: 2 · **Closed issues**: 21 · **Open issues**: 4 · **Commits**: 344
+
+## Recent activity
+
+| Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
+|---|---|---:|---:|---:|---:|---:|---:|
+| 30d | 2026-08-11 | 1 | 3 | 0 | 1 | 0 | 5 |
+| last60d | 2026-07-12 | 2 | 21 | 1 | 2 | 1 | 21 |
+| 90d | 2026-06-12 | 3 | 25 | 1 | 4 | 1 | 26 |
+| last180d | 2026-03-14 | 5 | 47 | 1 | 6 | 2 | 59 |
+| 360d | 2025-09-15 | 17 | 124 | 2 | 17 | 4 | 165 |
+| last720d | 2024-09-20 | 32 | 172 | 2 | 21 | 4 | 344 |
 
 ## Release assets
 
@@ -41,33 +72,13 @@ x install yozefu
 | [yozefu-x86_64-unknown-linux-gnu.cdx.json](https://github.com/MAIF/yozefu/releases/download/v0.0.32/yozefu-x86_64-unknown-linux-gnu.cdx.json) | 653.7 KiB | `native/linux/x64/glibc` |
 | [yozefu-x86_64-unknown-linux-gnu.tar.gz](https://github.com/MAIF/yozefu/releases/download/v0.0.32/yozefu-x86_64-unknown-linux-gnu.tar.gz) | 14.4 MiB | `native/linux/x64/glibc` |
 
-## Popularity
+## Distribution status
 
-- **Stars**: 344 · **Forks**: 15 · **Open issues**: 25 · **Contributors**: 6
+Reported by **3** distros on [repology.org](https://repology.org/project/yozefu). **1** are ✅ on the latest upstream release, **1** are ⚠️ on an older version.
 
-## Totals (cumulative)
-
-- **Releases**: 32 · **Merged PRs**: 172 · **Open PRs**: 2 · **Closed issues**: 21 · **Open issues**: 4 · **Commits**: 344
-
-## Recent activity
-
-| Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
-|---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-11 | 1 | 3 | 0 | 1 | 0 | 5 |
-| 90d | 2026-06-12 | 3 | 25 | 1 | 4 | 1 | 26 |
-| 360d | 2025-09-15 | 17 | 124 | 2 | 17 | 4 | 165 |
-
-## Code size
-
-Total: **19,955** lines of code across **221** files in the top 5 languages.
-
-| Language | Code | Comments | Blanks | Files |
-|----------|-----:|---------:|-------:|------:|
-| Rust | 11,280 | 433 | 1,385 | 139 |
-| Json | 6,540 | 0 | 1 | 50 |
-| Java | 626 | 190 | 141 | 12 |
-| Toml | 487 | 168 | 63 | 13 |
-| Svg | 246 | 0 | 0 | 7 |
+| Distro | Version | Status |
+|--------|---------|--------|
+| Homebrew | `0.0.32` | ✅ latest |
 
 ## Improve this data
 
@@ -78,4 +89,4 @@ Install metadata for yozefu lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T16:04:35Z._
+_Snapshot: `data/card/260910.yml` · 2026-09-10T20:14:58Z._
