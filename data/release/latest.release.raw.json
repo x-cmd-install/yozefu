@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 12805631,
       "digest": "sha256:e3d65206cea7b75d9f0f746456e1bde49f552728f163d95e548077bac3a277f9",
-      "download_count": 4,
+      "download_count": 5,
       "created_at": "2026-08-27T09:30:01Z",
       "updated_at": "2026-08-27T09:30:02Z",
       "browser_download_url": "https://github.com/MAIF/yozefu/releases/download/v0.0.32/yozefu-aarch64-apple-darwin.tar.gz"
@@ -391,7 +391,7 @@
       "state": "uploaded",
       "size": 12458120,
       "digest": "sha256:4292d3dd203bea61c7ff4597f8f107bd15eb1e83435d09f7e0c6fc5934a448d2",
-      "download_count": 3,
+      "download_count": 4,
       "created_at": "2026-08-27T09:42:16Z",
       "updated_at": "2026-08-27T09:42:16Z",
       "browser_download_url": "https://github.com/MAIF/yozefu/releases/download/v0.0.32/yozefu-x86_64-pc-windows-msvc.zip"
@@ -463,7 +463,7 @@
       "state": "uploaded",
       "size": 15113769,
       "digest": "sha256:28401d9c379b0b8b8e8e8e431fbc37527d3e79f44e8b52174b6c9720594f0463",
-      "download_count": 33,
+      "download_count": 34,
       "created_at": "2026-08-27T09:30:43Z",
       "updated_at": "2026-08-27T09:30:44Z",
       "browser_download_url": "https://github.com/MAIF/yozefu/releases/download/v0.0.32/yozefu-x86_64-unknown-linux-gnu.tar.gz"
