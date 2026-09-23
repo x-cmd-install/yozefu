@@ -4,7 +4,7 @@
 
  An interactive terminal user interface (TUI) application for exploring data of a kafka cluster. 
 
-[![x-cmd/install — yozefu Code Quality Monitoring Repo Card](https://repo.x-cmd.io/yozefu.svg?lang=zh)](https://x-cmd.com/install/yozefu)
+[![x-cmd/install — yozefu Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/yozefu.svg?lang=zh)](https://x-cmd.com/install/yozefu)
 
 ## 安装
 
@@ -48,12 +48,12 @@ x install yozefu
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 1 | 3 | 0 | 1 | 0 | 0 |
-| last60d | 2026-07-24 | 2 | 21 | 1 | 1 | 0 | 8 |
-| 90d | 2026-06-24 | 2 | 21 | 1 | 2 | 1 | 21 |
-| last180d | 2026-03-26 | 5 | 47 | 1 | 6 | 2 | 57 |
-| 360d | 2025-09-27 | 16 | 116 | 2 | 17 | 4 | 156 |
-| last720d | 2024-10-02 | 32 | 172 | 2 | 21 | 4 | 344 |
+| 30d | 2026-08-24 | 1 | 3 | 0 | 1 | 0 | 0 |
+| last60d | 2026-07-25 | 2 | 21 | 1 | 1 | 0 | 8 |
+| 90d | 2026-06-25 | 2 | 21 | 1 | 2 | 1 | 21 |
+| last180d | 2026-03-27 | 5 | 47 | 1 | 6 | 2 | 57 |
+| 360d | 2025-09-28 | 16 | 116 | 2 | 17 | 4 | 156 |
+| last720d | 2024-10-03 | 32 | 172 | 2 | 21 | 4 | 344 |
 
 ## Release 资产
 
@@ -81,4 +81,4 @@ yozefu 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) �
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260922.yml` · 2026-09-22T06:38:25Z._
+_数据快照: `data/card/260923.yml` · 2026-09-23T06:47:10Z._
