@@ -38,7 +38,7 @@ Total: **19,955** lines of code across **221** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 354 · **Forks**: 15 · **Open issues**: 25 · **Contributors**: 6
+- **Stars**: 353 · **Forks**: 16 · **Open issues**: 25 · **Contributors**: 6
 
 ## Totals (cumulative)
 
@@ -48,12 +48,12 @@ Total: **19,955** lines of code across **221** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-26 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-08-27 | 1 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-07-28 | 2 | 4 | 1 | 1 | 0 | 5 |
-| last180d | 2026-04-29 | 3 | 37 | 1 | 6 | 1 | 35 |
-| 360d | 2025-10-31 | 15 | 107 | 2 | 18 | 3 | 145 |
-| last720d | 2024-11-05 | 32 | 172 | 2 | 22 | 3 | 344 |
+| 30d | 2026-09-27 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-08-28 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-07-29 | 2 | 4 | 1 | 1 | 0 | 5 |
+| last180d | 2026-04-30 | 3 | 37 | 1 | 6 | 1 | 35 |
+| 360d | 2025-11-01 | 15 | 106 | 2 | 18 | 3 | 145 |
+| last720d | 2024-11-06 | 32 | 172 | 2 | 22 | 3 | 344 |
 
 ## Release assets
 
@@ -89,4 +89,4 @@ Install metadata for yozefu lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261026.yml` · 2026-10-26T06:08:03Z._
+_Snapshot: `data/card/261027.yml` · 2026-10-27T06:32:33Z._
