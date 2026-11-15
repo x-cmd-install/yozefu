@@ -48,12 +48,12 @@ Total: **19,955** lines of code across **221** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-15 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-09-15 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-08-16 | 1 | 3 | 0 | 1 | 0 | 0 |
-| last180d | 2026-05-18 | 3 | 31 | 1 | 5 | 1 | 0 |
-| 360d | 2025-11-19 | 13 | 98 | 1 | 15 | 2 | 0 |
-| last720d | 2024-11-24 | 32 | 172 | 2 | 22 | 3 | 344 |
+| 30d | 2026-10-16 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-09-16 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-08-17 | 1 | 3 | 0 | 1 | 0 | 5 |
+| last180d | 2026-05-19 | 3 | 31 | 1 | 5 | 1 | 33 |
+| 360d | 2025-11-20 | 13 | 98 | 1 | 15 | 2 | 125 |
+| last720d | 2024-11-25 | 32 | 172 | 2 | 22 | 3 | 344 |
 
 ## Release assets
 
@@ -89,4 +89,4 @@ Install metadata for yozefu lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261114.yml` · 2026-11-14T08:26:31Z._
+_Snapshot: `data/card/261115.yml` · 2026-11-15T08:18:45Z._
