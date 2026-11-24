@@ -38,22 +38,22 @@ Total: **19,955** lines of code across **221** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 355 · **Forks**: 17 · **Open issues**: 26 · **Contributors**: 6
+- **Stars**: 356 · **Forks**: 16 · **Open issues**: 25 · **Contributors**: 6
 
 ## Totals (cumulative)
 
-- **Releases**: 32 · **Merged PRs**: 172 · **Open PRs**: 3 · **Closed issues**: 22 · **Open issues**: 4 · **Commits**: 344
+- **Releases**: 32 · **Merged PRs**: 172 · **Open PRs**: 2 · **Closed issues**: 22 · **Open issues**: 3 · **Commits**: 344
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-24 | 0 | 0 | 1 | 0 | 1 | 0 |
-| last60d | 2026-09-24 | 0 | 0 | 1 | 0 | 1 | 0 |
-| 90d | 2026-08-25 | 1 | 3 | 1 | 0 | 1 | 0 |
-| last180d | 2026-05-27 | 3 | 31 | 2 | 5 | 2 | 28 |
-| 360d | 2025-11-28 | 11 | 90 | 2 | 12 | 3 | 113 |
-| last720d | 2024-12-03 | 32 | 172 | 3 | 22 | 4 | 344 |
+| 30d | 2026-10-25 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-09-25 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-08-26 | 1 | 3 | 0 | 0 | 0 | 0 |
+| last180d | 2026-05-28 | 3 | 31 | 1 | 5 | 1 | 28 |
+| 360d | 2025-11-29 | 11 | 90 | 1 | 12 | 2 | 113 |
+| last720d | 2024-12-04 | 32 | 172 | 2 | 22 | 3 | 344 |
 
 ## Release assets
 
@@ -89,4 +89,4 @@ Install metadata for yozefu lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261123.yml` · 2026-11-23T10:23:42Z._
+_Snapshot: `data/card/261124.yml` · 2026-11-24T11:48:24Z._
