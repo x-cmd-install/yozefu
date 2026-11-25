@@ -48,12 +48,12 @@ Total: **19,955** lines of code across **221** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-25 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-09-25 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-08-26 | 1 | 3 | 0 | 0 | 0 | 0 |
-| last180d | 2026-05-28 | 3 | 31 | 1 | 5 | 1 | 28 |
-| 360d | 2025-11-29 | 11 | 90 | 1 | 12 | 2 | 113 |
-| last720d | 2024-12-04 | 32 | 172 | 2 | 22 | 3 | 344 |
+| 30d | 2026-10-26 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-09-26 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-08-27 | 1 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-05-29 | 3 | 31 | 1 | 5 | 1 | 28 |
+| 360d | 2025-11-30 | 11 | 90 | 1 | 12 | 2 | 113 |
+| last720d | 2024-12-05 | 32 | 172 | 2 | 22 | 3 | 344 |
 
 ## Release assets
 
@@ -72,14 +72,6 @@ Total: **19,955** lines of code across **221** files in the top 5 languages.
 | [yozefu-x86_64-unknown-linux-gnu.cdx.json](https://github.com/MAIF/yozefu/releases/download/v0.0.32/yozefu-x86_64-unknown-linux-gnu.cdx.json) | 653.7 KiB | `native/linux/x64/glibc` |
 | [yozefu-x86_64-unknown-linux-gnu.tar.gz](https://github.com/MAIF/yozefu/releases/download/v0.0.32/yozefu-x86_64-unknown-linux-gnu.tar.gz) | 14.4 MiB | `native/linux/x64/glibc` |
 
-## Distribution status
-
-Reported by **3** distros on [repology.org](https://repology.org/project/yozefu). **1** are ✅ on the latest upstream release, **1** are ⚠️ on an older version.
-
-| Distro | Version | Status |
-|--------|---------|--------|
-| Homebrew | `0.0.32` | ✅ latest |
-
 ## Improve this data
 
 Install metadata for yozefu lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `yozefu` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -89,4 +81,4 @@ Install metadata for yozefu lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261124.yml` · 2026-11-24T11:48:24Z._
+_Snapshot: `data/card/261125.yml` · 2026-11-25T09:40:48Z._
